@@ -1,5 +1,5 @@
 # DetectandoRostos
-Vários projetos de detecção de pessoas/objetos
+Vários projetos de detecção de pessoas/objetos usando python e opencv.
 
 ### O que é cada projeto?
 
